@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Friend
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Scene
+  - Water
+  - UI
+  - Meteorites
+  - Tutorial
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1947543829
+    locked: 0
+  - name: Game
+    uniqueID: 4094135763
+    locked: 0
+  - name: Platform
+    uniqueID: 2377791181
+    locked: 0
+  - name: UIScene
+    uniqueID: 1041712455
+    locked: 0
+  - name: Player
+    uniqueID: 3414454203
+    locked: 0
+  - name: VFX
+    uniqueID: 1111697911
+    locked: 0
