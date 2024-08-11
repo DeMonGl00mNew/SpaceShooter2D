@@ -4,7 +4,7 @@
 https://www.youtube.com/watch?v=7x4u1HCM4WE - видеодемонстрация  
 
 
-[Assets/Scripts - папка со скриптами-] (Assets/Scripts)                                         
+[Assets/Scripts - папка со скриптами-](Assets/Scripts)                                         
 AnimateCrossFire.cs - Анимация перекрестного огня                          
 AnimateMagnit.cs - Анимация магнита                                        
 AnimateMovingTouchpad.cs - Анимация движущегося сенсорного экрана          
